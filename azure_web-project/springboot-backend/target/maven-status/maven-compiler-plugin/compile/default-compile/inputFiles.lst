@@ -1,0 +1,5 @@
+C:\Users\aakas\.gemini\antigravity\azure_web-main\springboot-backend\src\main\java\com\azureweb\iot\AzureIoTApplication.java
+C:\Users\aakas\.gemini\antigravity\azure_web-main\springboot-backend\src\main\java\com\azureweb\iot\config\CorsConfig.java
+C:\Users\aakas\.gemini\antigravity\azure_web-main\springboot-backend\src\main\java\com\azureweb\iot\controller\TelemetryController.java
+C:\Users\aakas\.gemini\antigravity\azure_web-main\springboot-backend\src\main\java\com\azureweb\iot\model\TelemetryData.java
+C:\Users\aakas\.gemini\antigravity\azure_web-main\springboot-backend\src\main\java\com\azureweb\iot\service\AzureEventHubConsumerService.java

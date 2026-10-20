@@ -1,0 +1,6 @@
+com\azureweb\iot\model\TelemetryData.class
+com\azureweb\iot\service\AzureEventHubConsumerService$1.class
+com\azureweb\iot\controller\TelemetryController.class
+com\azureweb\iot\service\AzureEventHubConsumerService.class
+com\azureweb\iot\AzureIoTApplication.class
+com\azureweb\iot\config\CorsConfig.class
